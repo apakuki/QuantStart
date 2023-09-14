@@ -1,0 +1,29 @@
+Quant Reading List - Derivative Pricing
+=======================================
+Options, Futures, and Other Derivatives, 9th Edition - John Hull
+A Primer For The Mathematics Of Financial Engineering, 2nd Edition - Dan Stefanica
+The Concepts and Practice of Mathematical Finance, 2nd Edition - Mark Joshi
+Financial Calculus: An Introduction to Derivative Pricing - Martin Baxter, Andrew Rennie
+Stochastic Calculus for Finance II: Continuous-Time Models - Steven Shreve
+
+
+Quant Reading List - C++ Programming
+====================================
+Sams Teach Yourself C++ in One Hour a Day (8th Edition) - Siddhartha Rao
+Effective C++: 55 Specific Ways to Improve Your Programs and Designs - Scott Meyers
+Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14 - Scott Meyers
+The C++ Standard Library: A Tutorial and Reference (2nd Edition) - Nicolai Josuttis
+Design Patterns: Elements of Reusable Object-Oriented Software - Erich Gamma et al
+
+
+Quant Reading List - Numerical Methods
+======================================
+Finite Difference Methods in Financial Engineering: A Partial Differential Equation Approach - Daniel Duffy
+Financial Instrument Pricing Using C++, 2nd Edition - Daniel Duffy
+Pricing Financial Instruments: The Finite Difference Method - Domingo Tavella and Curt Randall
+Option Pricing: Mathematical Models and Computation - Paul Wilmott et al.
+
+C++ Design Patterns and Derivatives Pricing, 2nd Edition - Mark Joshi
+Monte Carlo Methods in Financial Engineering - Paul Glasserman
+Monte Carlo Methods in Finance - Peter Jaeckel
+Monte Carlo Methodologies and Applications for Pricing and Risk Management - Bruno Dupire
